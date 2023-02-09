@@ -1,0 +1,36 @@
+{
+"naviDATA" : [
+        {
+          "d1" : {
+            "naviText" : "포트폴리오.",
+            "type" : "Link",
+            "href" : "/about",
+            "cls" : ["px-3", "font141618"]
+          }
+        },
+        {
+          "d1" : {
+            "naviText" : "봄날의 지니",
+            "type" : "a",
+            "href" : "/press",
+            "cls" : ["px-3", "font141618"]
+          }
+        },
+        {
+          "d1" : {
+            "naviText" : "사전인터뷰",
+            "type" : "a",
+            "href" : "/portfolio",
+            "cls" : ["px-3", "font141618"]
+          }
+        },
+        {
+          "d1" : {
+            "naviText" : "면접제안!",
+            "type" : "a",
+            "href" : "/contact",
+            "cls" : ["px-3", "font141618"]
+          }
+        }
+      ]
+}

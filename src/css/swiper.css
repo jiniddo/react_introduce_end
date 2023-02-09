@@ -1,0 +1,27 @@
+.swiper-slide{
+  /* background-color: black; */
+}
+
+.reactbg {
+  
+ 
+  background-color: rebeccapurple;
+  background-image: url(../../public/img/pf_swipeer/bodyfriend.png);
+}
+.clonebg{
+
+ 
+  background-color: yellowgreen;
+  background-image: url(../../public/img/pf_swipeer/familyisland.png);
+}
+.bootbg {
+
+ 
+  background-color: blanchedalmond; 
+  background-image: url(../../public/img/pf_swipeer/tving.png);
+}
+.mallbg {
+
+  background-color: aqua;
+  background-image: url(../../public/img/pf_swipeer/ec.png);
+}
